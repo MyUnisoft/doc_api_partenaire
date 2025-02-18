@@ -144,7 +144,9 @@ Une liste de guides qui pourront certainement vous aider dans la réalisation de
 - [Récupération des données liées aux widgets et dashboards](./accounting/folder/dashboard.md)
 - [Récupération des dossiers de révision et des modèles de dossier](./accounting/folder/dossiers_de_révision.md)
 - [Récupérer la liste des immobilisations d'une société](./accounting/folder/immobilisations.md)
+- [Importer des immobilisations dans une société](./accounting/folder/import/immobilisations.md)
 - [Récupérer la liste des emprunts d'une société](./accounting/folder/emprunts.md)
+- [Importer des emprunts dans une société](./accounting/folder/import/emprunts.md)
 
 #### Ecritures et mouvements
 
